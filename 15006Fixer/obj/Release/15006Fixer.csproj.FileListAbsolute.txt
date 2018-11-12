@@ -1,0 +1,9 @@
+c:\users\delta-pc\documents\visual studio 2015\Projects\15006Fixer\15006Fixer\bin\Release\15006Fixer.exe.config
+c:\users\delta-pc\documents\visual studio 2015\Projects\15006Fixer\15006Fixer\obj\Release\15006Fixer.csprojResolveAssemblyReference.cache
+c:\users\delta-pc\documents\visual studio 2015\Projects\15006Fixer\15006Fixer\obj\Release\_15006Fixer.Form1.resources
+c:\users\delta-pc\documents\visual studio 2015\Projects\15006Fixer\15006Fixer\obj\Release\_15006Fixer.Properties.Resources.resources
+c:\users\delta-pc\documents\visual studio 2015\Projects\15006Fixer\15006Fixer\obj\Release\15006Fixer.csproj.GenerateResource.Cache
+c:\users\delta-pc\documents\visual studio 2015\Projects\15006Fixer\15006Fixer\bin\Release\15006Fixer.exe
+c:\users\delta-pc\documents\visual studio 2015\Projects\15006Fixer\15006Fixer\bin\Release\15006Fixer.pdb
+c:\users\delta-pc\documents\visual studio 2015\Projects\15006Fixer\15006Fixer\obj\Release\15006Fixer.exe
+c:\users\delta-pc\documents\visual studio 2015\Projects\15006Fixer\15006Fixer\obj\Release\15006Fixer.pdb
